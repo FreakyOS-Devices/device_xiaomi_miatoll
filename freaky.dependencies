@@ -11,9 +11,9 @@
 		"remote": "github"
 	},
 	{
-		"repository": "PixelExperince-Devices/kernel_xiaomi_curtana",
+		"repository": "Demon000/kernel_xiaomi_sm6250",
 		"target_path": "kernel/xiaomi/sm6250",
-		"branch": "ten",
+		"branch": "lineage-17.1",
 		"remote": "github"
 	}
 ]
