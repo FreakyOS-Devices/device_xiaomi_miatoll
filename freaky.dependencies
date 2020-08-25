@@ -1,9 +1,8 @@
 [
 	{
-		"repository": "Demon000/device_xiaomi_sm6250-common",
+		"repository": "device_xiaomi_sm6250-common",
 		"target_path": "device/xiaomi/sm6250-common",
-		"branch": "lineage-17.1",
-		"remote": "github"
+		"branch": "still_alive"
 	},
 	{
 		"repository": "Demon000/vendor_xiaomi",
@@ -12,9 +11,9 @@
 		"remote": "github"
 	},
 	{
-		"repository": "Demon000/kernel_xiaomi_sm6250",
+		"repository": "PixelExperince-Devices/kernel_xiaomi_curtana",
 		"target_path": "kernel/xiaomi/sm6250",
-		"branch": "lineage-17.1",
+		"branch": "ten",
 		"remote": "github"
 	}
 ]
