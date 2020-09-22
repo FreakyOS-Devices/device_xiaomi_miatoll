@@ -15,5 +15,11 @@
 		"target_path": "kernel/xiaomi/sm6250",
 		"branch": "lineage-17.1",
 		"remote": "github"
-	}
+	},
+  	{
+    		"remote": "github",
+    		"repository": "SonalSingh18/vendor_aeonax_ANXCamera",
+    		"target_path": "vendor/aeonax/ANXCamera",
+    		"branch": "ten"
+ 	}
 ]
