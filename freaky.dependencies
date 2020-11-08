@@ -11,9 +11,9 @@
 		"remote": "github"
 	},
 	{
-		"repository": "Demon000/kernel_xiaomi_sm6250",
+		"repository": "mdkaiom95/android_kernel_xiaomi_sm6250",
 		"target_path": "kernel/xiaomi/sm6250",
-		"branch": "lineage-17.1",
+		"branch": "ten",
 		"remote": "github"
 	},
   	{
