@@ -12,7 +12,7 @@
 	},
 	{
 		"repository": "mdkaiom95/android_kernel_xiaomi_sm6250",
-		"target_path": "kernel/xiaomi/sm6250",
+		"target_path": "android/kernel/xiaomi/sm6250",
 		"branch": "ten",
 		"remote": "github"
 	},
