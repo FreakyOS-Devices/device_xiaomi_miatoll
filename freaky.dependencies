@@ -11,8 +11,8 @@
 		"remote": "github"
 	},
 	{
-		"repository": "mdkaiom95/android_kernel_xiaomi_sm6250",
-		"target_path": "android/kernel/xiaomi/sm6250",
+		"repository": "PixelExperince-Devices/kernel_xiaomi_curtana",
+		"target_path": "kernel/xiaomi/sm6250",
 		"branch": "ten",
 		"remote": "github"
 	},
